@@ -1,0 +1,11 @@
+{
+  "auto_reply": {
+    "halo": "Halo! Ada yang bisa saya bantu?",
+    "assalamu'alaikum": "Wa'alaikumsalam Warahmatullahi Wabarakatuh! Ada yang bisa saya bantu?",
+    "hi": "Hi! Ada yang bisa saya bantu?"
+  },
+  "keyword_reply": {
+    "rekening": "Atas nama Adipriyono, 1002141357 (BSI), 1050014565638 (Mandiri), 763101011363536 (BRI)",
+    "norek": "Atas nama Adipriyono, 1002141357 (BSI), 1050014565638 (Mandiri), 763101011363536 (BRI)"
+  }
+}

@@ -1,0 +1,11 @@
+# Jangan upload folder sesi WhatsApp
+.wwebjs_auth/
+
+# Jangan upload node_modules
+node_modules/
+
+# Jangan upload file konfigurasi rahasia
+.env
+
+# Jangan upload log pesanan
+riwayat/
